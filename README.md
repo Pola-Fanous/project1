@@ -16,3 +16,5 @@ this script takes inputs and uses data to answer interesting questions about it 
 ### Python version
 This repository has been built with Python 3.
 
+### Credit
+this reprisitory was taken from https://github.com/ahmedmonged
